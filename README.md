@@ -1,7 +1,9 @@
-# Why Did You Render
+<!--# Why Did You Render-->
 
-![logo](images/WDYR-logo.jpg)
+<!--![logo](images/WDYR-logo.jpg)-->
 
+I wanted to try this package to track unexpected rerenders and better understand how to write optimezid UI
+ 
 [![npm version](https://badge.fury.io/js/%40welldone-software%2Fwhy-did-you-render.svg)](https://badge.fury.io/js/%40welldone-software%2Fwhy-did-you-render)
 [![Build Status](https://travis-ci.com/welldone-software/why-did-you-render.svg?branch=master)](https://travis-ci.com/welldone-software/why-did-you-render)
 ![NPM](https://img.shields.io/npm/l/@welldone-software/why-did-you-render?style=flat)
